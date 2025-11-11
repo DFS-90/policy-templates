@@ -1,0 +1,5 @@
+{"name": "admin_enable_dashboard",
+ "description": "Enable admin dashboard.",
+ "scope": "webui",
+ "action": {"admin_dashboard": true}
+}
