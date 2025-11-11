@@ -1,7 +1,6 @@
 {
  "admin_superuser": "An administrator, who is allowed to do everything.",
  "admin_helpdesk": "A helpdesk user, who is allowed to manage all token stuff.",
- "admin_enable_dashboard": "Enable admin dashboard."
  "authentication_otppin_disabled": "Disable OTP PIN.",
  "authentication_push_allow_polling": "Allow PUSH polling.",
  "enrollment_push_firebase_config_poll_only": "Set PUSH firebase configuration to 'poll only'.",
