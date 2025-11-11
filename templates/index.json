@@ -12,7 +12,7 @@
  "user_token_enrollment": "Define user rights for token enrollment.",
  "user_token_manaagement": "Define user rights for token management.",
  "webui_admin_enable_dashboard": "Enable dashboard as start screen for admins when logging in.", 
- "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator."
+ "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator.",
  "webui_login_mode_authentication_privacyidea": "Users need to authenticate against privacyIDEA.",
  "webui_login_mode_authentication_userstore": "Users need to authenticate against their userstore.",
  "webui_logout_time": "Set WebUI logout time to 5 minutes."
