@@ -1,0 +1,5 @@
+{"name": "authentication_push_ssl_verify",
+ "description": "The smartphone needs to verify SSL during authentication. (default: 1)",
+ "scope": "authentication",
+ "action": {"push_ssl_verify": "1"}
+}

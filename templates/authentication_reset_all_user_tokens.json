@@ -1,0 +1,5 @@
+{"name": "authentication_reset_all_user_tokens",
+ "description": "Reset the failcounter of all tokens if a user authenticates successfully.",
+ "scope": "authentication",
+ "action": {"reset_all_user_tokens": true"}
+}
