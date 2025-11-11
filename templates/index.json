@@ -1,7 +1,6 @@
 {
  "admin_superuser": "An administrator, who is allowed to do everything.",
  "admin_helpdesk": "A helpdesk user, who is allowed to manage all token stuff.",
- "admin_enable_dashboard": "Enable admin dashboard."
  "authentication_otppin_disabled": "Disable OTP PIN.",
  "authentication_push_allow_polling": "Allow PUSH polling.",
  "authentication_push_ssl_verify": "The smartphone needs to verify SSL during authentication. (default: 1)",
@@ -17,7 +16,7 @@
  "user_token_enrollment": "Define user rights for token enrollment.",
  "user_token_management": "Define user rights for token management.",
  "webui_admin_enable_dashboard": "Enable dashboard as start screen for admins when logging in.", 
- "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator."
+ "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator.",
  "webui_login_mode_authentication_privacyidea": "Users need to authenticate against privacyIDEA.",
  "webui_login_mode_authentication_userstore": "Users need to authenticate against their userstore.",
  "webui_logout_time": "Set WebUI logout time to 5 minutes."
