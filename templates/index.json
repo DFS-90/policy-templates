@@ -10,7 +10,7 @@
  "enrollment_webauthn_relying_party_id": "Set 'relying party id' for WEBAUTHN.",
  "enrollment_webauthn_relying_party_name": "Set 'relying party name' for WEBAUTHN.",
  "user_token_enrollment": "Define user rights for token enrollment.",
- "user_token_manaagement": "Define user rights for token management.",
+ "user_token_management": "Define user rights for token management.",
  "webui_admin_enable_dashboard": "Enable dashboard as start screen for admins when logging in.", 
  "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator.",
  "webui_login_mode_authentication_privacyidea": "Users need to authenticate against privacyIDEA.",
