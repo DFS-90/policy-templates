@@ -3,7 +3,7 @@
  "admin_helpdesk": "A helpdesk user, who is allowed to manage all token stuff.",
  "authentication_otppin_disabled": "Disable OTP PIN.",
  "authentication_push_allow_polling": "Allow PUSH polling.",
- "authentication_push_ssl_verify": "The smartphone needs to verify SSL during authentication. (default: 1)",
+ "authentication_push_ssl_verify": "Set if the smartphone needs to verify SSL during authentication.",
  "authentication_push_title_on_mobile": "Set the title of the notification the user sees on his mobile phone.",
  "authentication_push_text_on_mobile": "Set the question / the text of the notification the user sees on his mobile phone.",
  "authentication_reset_all_user_tokens": "Reset the failcounter of all tokens if a user authenticates successfully.",
