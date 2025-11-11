@@ -1,0 +1,5 @@
+{"name": "authentication_push_presence_num_options",
+ "description": "The number of options the user is presented to confirm PUSH login.",
+ "scope": "authentication",
+ "action": {"push_presence_num_options": "4"}
+}

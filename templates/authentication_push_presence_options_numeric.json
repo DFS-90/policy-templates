@@ -1,0 +1,5 @@
+{"name": "authentication_push_presence_options_numeric",
+ "description": "User is presented different numbers to confirm PUSH login.",
+ "scope": "authentication",
+ "action": {"push_presence_options": "NUMERIC"}
+}

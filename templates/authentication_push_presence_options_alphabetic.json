@@ -1,0 +1,5 @@
+{"name": "authentication_push_presence_options_alphabetic",
+ "description": "User is presented different letters to confirm PUSH login.",
+ "scope": "authentication",
+ "action": {"push_presence_options": "ALPHABETIC"}
+}
