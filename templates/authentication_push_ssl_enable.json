@@ -1,0 +1,5 @@
+{"name": "authentication_push_ssl_enable",
+ "description": "Enable SSL verification during authentication for PUSH.",
+ "scope": "authentication",
+ "action": {"push_ssl_verify": "1"}
+}

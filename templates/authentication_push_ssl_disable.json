@@ -1,0 +1,5 @@
+{"name": "authentication_push_ssl_disable",
+ "description": "Disable SSL verification during authentication for PUSH.",
+ "scope": "authentication",
+ "action": {"push_ssl_verify": "0"}
+}
