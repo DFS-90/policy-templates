@@ -6,7 +6,7 @@
 			"enrollDAYPASSWORD": false,
 			"enrollEMAIL": true,
 			"enrollHOTP": true,
-			"enrollINDEXSECRET": false,
+			"enrollINDEXEDSECRET": false,
 			"enrollMOTP": false,
 			"enrollPAPER": false,
             "enrollPASSKEY": true,
