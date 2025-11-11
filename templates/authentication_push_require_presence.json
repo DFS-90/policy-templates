@@ -1,5 +1,5 @@
 {"name": "authentication_push_require_presence",
  "description": "Require user to confirm PUSH login with a presence check.",
  "scope": "authentication",
- "action": {"push_require_presemce": true}
+ "action": {"push_require_presence": true}
 }
