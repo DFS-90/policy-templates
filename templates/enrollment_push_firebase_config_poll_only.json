@@ -1,0 +1,5 @@
+{"name": "enrollment_push_firebase_config_poll_only",
+ "description": "Set PUSH firebase configuration to 'poll only'.",
+ "scope": "enrollment",
+ "action": {"push_firebase_configuration": "poll only"}
+}

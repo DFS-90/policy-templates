@@ -1,0 +1,5 @@
+{"name": "authentication_push_allow_polling",
+ "description": "Allow PUSH polling.",
+ "scope": "authentication",
+ "action": {"push_allow_polling": "allow"}
+}

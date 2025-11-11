@@ -1,0 +1,5 @@
+{"name": "webui_admin_enable_dashboard",
+ "description": "Enable dashboard as start screen for admins when logging in.",
+ "scope": "webui",
+ "action": {"admin_dashboard": true}
+}

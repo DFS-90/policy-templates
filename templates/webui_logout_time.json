@@ -1,0 +1,5 @@
+{"name": "webui_logout_time",
+ "description": "Set WebUI logout time to 5 minutes.",
+ "scope": "webui",
+ "action": {"logout_time": "300"}
+}

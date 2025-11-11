@@ -1,0 +1,5 @@
+{"name": "webui_login_mode_authentication_privacyidea",
+ "description": "Users need to authenticate against privacyIDEA.",
+ "scope": "webui",
+ "action": {"login_mode": "privacyIDEA"}
+}

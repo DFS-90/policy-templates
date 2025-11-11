@@ -1,0 +1,5 @@
+{"name": "enrollment_push_registration_url",
+ "description": "Set PUSH registration url.",
+ "scope": "enrollment",
+ "action": {"push_registration_url": "https://your.domain.here/ttype/push"}
+}

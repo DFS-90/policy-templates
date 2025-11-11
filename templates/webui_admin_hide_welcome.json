@@ -1,0 +1,5 @@
+{"name": "webui_admin_hide_welcome",
+ "description": "Hide the welcome dialogue from the administrator.",
+ "scope": "webui",
+ "action": {"hide_welcome_info": true}
+}

@@ -1,0 +1,5 @@
+{"name": "enrollment_webauthn_relying_party_name",
+ "description": "Set 'relying party name' for WEBAUTHN.",
+ "scope": "enrollment",
+ "action": {"webauthn_relying_party_name": "ORG name here""}
+}

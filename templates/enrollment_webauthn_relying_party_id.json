@@ -1,0 +1,5 @@
+{"name": "enrollment_webauthn_relying_party_id",
+ "description": "Set 'relying party id' for WEBAUTHN.",
+ "scope": "enrollment",
+ "action": {"webauthn_relying_party_id": "domain_name_here"}
+}

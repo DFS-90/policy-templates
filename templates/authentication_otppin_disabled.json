@@ -1,0 +1,5 @@
+{"name": "authentication_otppin_disabled",
+ "description": "Disable OTP PIN.",
+ "scope": "authentication",
+ "action": {"otppin": "none"}
+}

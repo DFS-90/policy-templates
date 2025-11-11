@@ -1,0 +1,5 @@
+{"name": "webui_login_mode_authentication_userstore",
+ "description": "Users need to authenticate against their userstore.",
+ "scope": "webui",
+ "action": {"login_mode": "userstore"}
+}

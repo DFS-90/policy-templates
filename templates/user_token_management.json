@@ -1,0 +1,13 @@
+{"name": "user_token_management",
+ "description": "Define user rights for token management.",
+ "scope": "user",
+ "action": {"assign": true,
+            "delete": true,
+            "disable": true,
+            "enable": true,
+            "reset": true,
+            "resync": true,
+            "revoke": true,
+            "setdescription": true,			
+            "unassign": true}
+}
