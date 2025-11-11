@@ -16,7 +16,7 @@
 			"enrollSMS": false,
 			"enrollSPASS": false,
 			"enrollSSHKEY": false,
-			"enrollTAN": false
+			"enrollTAN": false,
             "enrollTIQR": true,
             "enrollTOTP": true,
             "enrollWEBAUTHN": true,
