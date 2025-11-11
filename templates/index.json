@@ -1,0 +1,20 @@
+{
+ "admin_superuser": "An administrator, who is allowed to do everything.",
+ "admin_helpdesk": "A helpdesk user, who is allowed to manage all token stuff.",
+ "admin_enable_dashboard": "Enable admin dashboard."
+ "authentication_otppin_disabled": "Disable OTP PIN.",
+ "authentication_push_allow_polling": "Allow PUSH polling.",
+ "enrollment_push_firebase_config_poll_only": "Set PUSH firebase configuration to 'poll only'.",
+ "enrollment_tokenlabel": "Set the tokenlabel of a Google Authenticator to a sensible value during enrollment.",
+ "enrollment_push_firebase_config_poll_only": "Set PUSH firebase configuration to 'poll only'.",
+ "enrollment_push_registration_url": "Set PUSH registration url.",
+ "enrollment_webauthn_relying_party_id": "Set 'relying party id' for WEBAUTHN.",
+ "enrollment_webauthn_relying_party_name": "Set 'relying party name' for WEBAUTHN.",
+ "user_token_enrollment": "Define user rights for token enrollment.",
+ "user_token_manaagement": "Define user rights for token management.",
+ "webui_admin_enable_dashboard": "Enable dashboard as start screen for admins when logging in.", 
+ "webui_admin_hide_welcome": "Hide the welcome dialogue from the administrator."
+ "webui_login_mode_authentication_privacyidea": "Users need to authenticate against privacyIDEA.",
+ "webui_login_mode_authentication_userstore": "Users need to authenticate against their userstore.",
+ "webui_logout_time": "Set WebUI logout time to 5 minutes."
+}
