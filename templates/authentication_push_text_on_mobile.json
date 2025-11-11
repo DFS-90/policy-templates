@@ -1,5 +1,5 @@
 {"name": "authentication_push_text_on_mobile",
- "description": "Set the question / the text of the notification the user sees on his mobile phone.",
+ "description": "Set the text of the notification the user sees on his mobile phone.",
  "scope": "authentication",
  "action": {"push_text_on_mobile": "SET_YOUR_TEXT_HERE"}
 }
