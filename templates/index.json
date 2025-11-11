@@ -5,7 +5,7 @@
  "authentication_push_allow_polling": "Allow PUSH polling.",
  "authentication_push_ssl_verify": "Set if the smartphone needs to verify SSL during authentication.",
  "authentication_push_title_on_mobile": "Set the title of the notification the user sees on his mobile phone.",
- "authentication_push_text_on_mobile": "Set the question / the text of the notification the user sees on his mobile phone.",
+ "authentication_push_text_on_mobile": "Set the text of the notification the user sees on his mobile phone.",
  "authentication_reset_all_user_tokens": "Reset the failcounter of all tokens if a user authenticates successfully.",
  "enrollment_push_firebase_config_poll_only": "Set PUSH firebase configuration to 'poll only'.",
  "enrollment_push_registration_url": "Set PUSH registration url.",
